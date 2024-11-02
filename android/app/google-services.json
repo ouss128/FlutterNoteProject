@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992906220893",
+    "project_id": "oussflutterfirstproj",
+    "storage_bucket": "oussflutterfirstproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992906220893:android:73f7aa6d711802cf34c4b4",
+        "android_client_info": {
+          "package_name": "com.oussama.my_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZ3lyy6p8Old9FIxV0oOJgRF2e-VSEKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
