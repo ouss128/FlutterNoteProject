@@ -19,6 +19,7 @@ void main() {
       routes: {
         '/login/': (context) => LoginView(),
         '/register/': (context) => RegisterView(),
+        '/notes/': (context) => NotesView(),
       },
     ),
   );
